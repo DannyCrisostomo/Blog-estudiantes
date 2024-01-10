@@ -4,16 +4,11 @@ Este proyecto es un blog dedicado a compartir información sobre estudiantes, bl
 
 ## Contenido
 
-- [Demo](#demo)
-- [Capturas de Pantalla](#capturas-de-pantalla)
 - [Características](#características)
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Contribuir](#contribuir)
 
-## Demo
-
-Puedes ver una demostración en vivo de este blog en [Blog de Estudiantes](https://example.com).
 
 ## Vista Previa 🌐
 
