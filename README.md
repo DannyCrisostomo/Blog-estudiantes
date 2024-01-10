@@ -10,7 +10,6 @@ Este proyecto es un blog dedicado a compartir información sobre estudiantes, bl
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Contribuir](#contribuir)
-- [Vista Previa](#Vista-Previa)
 
 ## Demo
 
@@ -46,5 +45,8 @@ Explora el blog para conocer a estudiantes destacados, leer blogs emocionantes y
 4. Sube los cambios a tu repositorio en GitHub (`git push origin feature/nueva-funcionalidad`).
 5. Abre un Pull Request.
 
-## Vista-Previa
+## Vista Previa 🌐
+
+Puedes acceder a una vista previa en vivo del prototipo [aquí](https://thunderous-klepon-c3991e.netlify.app/).
+
 ![php](https://github.com/DannyCrisostomo/Blog-estudiantes/blob/main/blog.png)
